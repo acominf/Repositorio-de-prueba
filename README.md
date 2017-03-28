@@ -3,6 +3,7 @@
 ### Objetivo del juego/aplicación
 El objetivo del juego/aplicación es ...
 
+
 ### Descripción del juego/aplicación
 La descripción del juego/aplicación es ...
 
