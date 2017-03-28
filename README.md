@@ -1,5 +1,7 @@
 # Repositorio-de-prueba
 
+![En construcción](https://upload.wikimedia.org/wikipedia/commons/a/a5/Wikidata_logo_under_construction_sign_wide.svg)
+
 ![Diagrama UML](https://github.com/acominf/Repositorio-de-prueba/blob/master/imagenes/diagramaUML.png)
 
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wikidata_logo_under_construction_sign_wallpaper.png/512px-Wikidata_logo_under_construction_sign_wallpaper.png)
