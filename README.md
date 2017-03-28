@@ -1,5 +1,7 @@
 # Repositorio-de-prueba
 
+![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/a/a5/Wikidata_logo_under_construction_sign_wide.svg)
 ![En construcción](https://goo.gl/3a8vAx)
 
